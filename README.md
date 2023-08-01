@@ -1,1 +1,1 @@
-播放本地端 m3u8 檔案
+[Discussions](https://github.com/shinrenpan/Note/discussions/6)
